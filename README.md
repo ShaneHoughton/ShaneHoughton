@@ -1,3 +1,3 @@
 ## Greetings, I am
-# Shane Houghton 🐕
+Shane Houghton 🐕
 
