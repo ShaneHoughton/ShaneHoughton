@@ -1,3 +1,2 @@
-greetings...
-##I am Shane Houghton 🐕
+#I am Shane Houghton 🐕
 
