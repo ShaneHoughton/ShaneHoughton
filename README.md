@@ -1,3 +1,3 @@
-Code runner by day, road runner by night.
+code runner/road runner
 
 ![strava](https://github.com/ShaneHoughton/strava-heatmap/blob/main/test.svg)
