@@ -1,4 +1,3 @@
-~ Ahoy ~
-# I'm Shane 🌻
+I run code and in circles!
 
-I am a React, Node and Javascript developer for St. Luke's University Health Network.
+![strava](https://github.com/ShaneHoughton/strava-heatmap/blob/main/test.svg)
